@@ -1,0 +1,14 @@
+#EWP59_c
+A=[0.000000,0.000000]
+B=[120.000000,0.000000]
+s1=Line[A,B]
+c1=Circle[B,A]
+C=Intersect[s1,c1,1,A]
+c2=Circle[A,C]
+D=Intersect[c2,s1,1,C]
+
+named=A,B
+
+result=C,D
+
+explore=C,D

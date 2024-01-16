@@ -1,0 +1,17 @@
+#EWP64
+A=[0.000000,-200.000000]
+B=[80.000000,0.000000]
+C=[-80.000000,0.000000]
+s1=Ray[A,B]
+s2=Ray[A,C]
+D=[70.000000,120.000000]
+s3=ABisect[B,A,C]
+s4=Parallel[D,s3]
+
+initial=A,D,s1,s2
+
+movepoints=B,C
+
+result=s4:D,s4
+
+explore=s4
