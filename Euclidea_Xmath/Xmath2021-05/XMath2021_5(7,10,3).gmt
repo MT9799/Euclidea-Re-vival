@@ -1,7 +1,7 @@
 #XMath2021-5
 A=[-230,-100]
 B=[-100,100]
-C=[200,120]
+C=[150,105]
 s1=Line[A,B]
 s2=Line[B,C]
 s3=Line[C,A]
@@ -23,19 +23,15 @@ I=Intersect[s7,s8,0]
 
 #3v
 
-s9=Parallel[G,s1]
-J=Intersect[s3,s9,0]
-s10=Line[B,J]
-s11=Parallel[A,s2]
-K=Intersect[s11,s10,0]
-s12=Parallel[K,s3]
-L=Intersect[s12,s8,0]
-s13=Parallel[L,s2]
-M=Intersect[s13,s1,0]
-s14=Line[C,M]
-N=Intersect[s14,s11,0]
-s15=Parallel[N,s1]
-O=Intersect[s15,s6,0]
+s9=Parallel[A,s2]
+s10=Parallel[H,s1]
+J=Intersect[s9,s10,0]
+s11=Parallel[J,s3]
+K=Intersect[s8,s11,0]
+s12=Parallel[K,s2]
+L=Intersect[s12,s6,0]
+s13=Parallel[L,s1]
+M=Intersect[s13,s9,0]
 
 #named=G
 #initial=A,B,C,D,s1,s2,s3,s4,s5,s6,s7,s8,s11,s12,c1,c2,c3,c4,c5,s20,s21,s22,s23
@@ -43,9 +39,9 @@ named=A,B,C
 initial=A,B,C,s1,s2,s3
 #movepoints=
 
-result=K,L
+result=J,K
 result=H,I
-result=N,O
-explore=K,L
+result=L,M
+explore=J,K
 
 #rules=

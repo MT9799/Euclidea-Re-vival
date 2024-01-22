@@ -1,34 +1,33 @@
 #XMath2020-4
 A=[-240,160]
 B=[240,140]
-C=[-150,-200]
+C=[-150,-80]
 D=[240,-140]
 s1=Line[A,B]
 s2=Segment[C,D]
-s3=Perp[C,s1]
-s4=Perp[D,s1]
-E=Intersect[s1,s3,0]
-F=Intersect[s4,s1,0]
-G=EdgePoint[s1,0]
-s5=Segment[G,F]
 
 c1=Circle[C,D]
 c2=Circle[D,C]
-H=Intersect[c1,c2,0]
-s6=Perp[H,s1]
-I=Intersect[c1,s6,-,H]
-s7=PBisect[D,I]
+E=Intersect[c1,c2,0]
+s3=Perp[E,s1]
+F=Intersect[c2,s3,-,E]
+s4=PBisect[C,F]
 
-J=Intersect[s6,s7,0]
-s8=Segment[D,J]
+G=Intersect[s4,s3,0]
 
-#named=C,D,E,F,G,H,I
-#initial=C,D,E,F,G,H,I,s1,s2,s3,s4,s5,s6,s7,c1,c2
-named=C.A,D.B
+s5=Perp[C,s1]
+H=Intersect[s1,s5,0]
+s6=Perp[D,s1]
+I=Intersect[s1,s6,0]
+s7=Ray[C,G]
+
+#named=
+#initial=
+#named=
 initial=C,D,s1
 movepoints=A,B
 
-result=J
-explore=J
+result=G
+explore=G
 
-rules=s1/s2,E.C.D<120,F.D.C<120,E#s5,s1/s8
+rules=s1/s2,C.D.I<120,D.C.H<120,s7#s1

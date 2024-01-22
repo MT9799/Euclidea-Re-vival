@@ -18,7 +18,7 @@ c3=Circle[I,A]
 J=Intersect[c1,c3,1]
 s3=Segment[C,D]
 s4=Segment[E,F]
-S5=Segment[J,C]
+S1=Segment[E,J]
 
 #named=
 #initial=
@@ -29,4 +29,4 @@ movepoints=B
 result=J
 explore=J
 
-rules=s3/s4,s5#s4
+rules=s3/s4,S1#s3
