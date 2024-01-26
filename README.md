@@ -9,7 +9,7 @@ We're planning to bring the puzzles released by official and some other classic 
 Catalog of level packs:
 - Euclidea Weekly Puzzles
 - Xmath contests
-- Other questions, including some compass-straightedge construction puzzles that are not included in Euclidea, single-straightedge construction puzzles, etc. 
+- Other questions, including some compass-straightedge construction puzzles that are not included in Euclidea, straightedge-only construction puzzles, etc. 
 
 
 喜欢玩Euclidea的朋友们：
