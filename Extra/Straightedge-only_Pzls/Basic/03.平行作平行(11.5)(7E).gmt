@@ -1,0 +1,16 @@
+#3dParallel
+A=[-206.000000,136.500000]
+B=[84.000000,137.500000]
+s1=Line[A,B]
+C=[-4.000000,-5.500000]
+s2=Parallel[C,s1]
+D=[-24.000000,-125.500000]
+s3=Parallel[D,s2]
+
+initial=s1,s2,D
+
+movepoints=A,B,C
+
+result=s3:s3,D
+
+explore=s3

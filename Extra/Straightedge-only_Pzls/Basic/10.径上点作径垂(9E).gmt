@@ -1,0 +1,15 @@
+#drop_perp_d
+A=[20.000000,1.000000]
+B=[200.000000,1.000000]
+c1=Circle[A,B]
+s1=Line[A,B]
+C=Linepoint[s1,-0.6]
+s2=Perp[C,s1]
+
+initial=c1,s1,C
+
+result=s2:s2,C
+
+movepoints=B
+
+explore=s2

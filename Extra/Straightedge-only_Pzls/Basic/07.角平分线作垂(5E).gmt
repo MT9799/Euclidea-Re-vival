@@ -1,0 +1,17 @@
+#ABisect_Perp
+A=[-50.500000,30.000000]
+B=[80.500000,-70.000000]
+s1=Ray[A,B]
+C=[252.000000,33.000000]
+s2=Ray[A,C]
+s3=ABisect[B,A,C]
+s4=Perp[A,s3]
+
+
+initial=A,s1,s2,s3
+
+movepoints=B,C
+
+result=s4:A,s4
+
+explore=s4

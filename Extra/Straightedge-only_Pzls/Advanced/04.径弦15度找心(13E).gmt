@@ -1,0 +1,12 @@
+#Diameter_Angle15
+A=[14.000000,29.000000]
+B=[-211.000000,29.500000]
+s1=Line[A,B]
+c1=Circle[A,B]
+s2=FixAngle[B,A,15]
+
+initial=s1,c1,s2,B
+
+result=A
+
+explore=A

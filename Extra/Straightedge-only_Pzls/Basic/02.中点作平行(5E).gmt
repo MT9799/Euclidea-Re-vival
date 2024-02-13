@@ -1,0 +1,14 @@
+#MParallel
+A=[190.000000,-20.000000]
+B=[-89.500000,191.500000]
+S1=Segment[A,B]
+C=[41.000000,-160.000000]
+s1=Parallel[C,S1]
+D=Midpoint[A,B]
+
+
+initial=A,B,S1,D,C
+
+result=s1:C,s1
+
+explore=s1

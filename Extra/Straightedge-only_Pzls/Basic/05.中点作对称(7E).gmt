@@ -1,0 +1,15 @@
+#MMirror
+A=[190.000000,-20.000000]
+B=[-89.500000,191.500000]
+S1=Segment[A,B]
+C=Linepoint[S1,0.2]
+D=Midpoint[A,B]
+c1=Circle[D,C]
+E=Intersect[S1,c1,1]
+
+
+initial=A,B,S1,D,C
+
+result=E
+
+explore=E
