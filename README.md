@@ -11,6 +11,8 @@ Catalog of level packs:
 - Xmath contests
 - Other questions, including some compass-straightedge construction puzzles that are not included in Euclidea, straightedge-only construction puzzles, etc. 
 
+About the "current optimal solution": Many questions have not attempted to reduce steps, especially the L stars. If you find any better solutions, please feel free to submit Issues
+
 
 喜欢玩Euclidea的朋友们：
 
@@ -22,5 +24,7 @@ Catalog of level packs:
 - EWP
 - Xmath
 - 其他题目，包括一些Euclidea未收录的尺规题、单尺作图题等
+
+关于“目前最优解”：很多题目都没有尝试去节省步数，尤其是L数。如果各位发现有更优解，欢迎提出Issues
 
 
