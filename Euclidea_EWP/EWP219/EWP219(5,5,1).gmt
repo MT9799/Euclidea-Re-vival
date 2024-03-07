@@ -1,0 +1,16 @@
+#EWP219
+A=[-130,0]
+B=[100,0]
+C=[-90,-90]
+c1=Circle[A,C]
+c2=Circle[B,C]
+s1=Line[A,B]
+s2=Perp[A,s1]
+
+initial=A,B,c1,c2
+
+movepoints=C
+
+result=s2:s2,A
+
+explore=s2
