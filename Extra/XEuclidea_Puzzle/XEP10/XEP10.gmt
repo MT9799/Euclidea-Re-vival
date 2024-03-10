@@ -48,8 +48,8 @@ s24=Line[A,F]
 initial=A,B,s7
 #movepoints=
 
-result=s12,s13,s14,s15:C,D,E,s8,s9,s10,s11
-result=s21,s22,s23,s24:F,G,H,s16,s17,s18,s19
+result=s12,s13,s14,s15:A,B,s7,C,D,E,s8,s9,s10,s11
+result=s21,s22,s23,s24:A,B,s7,F,G,H,s16,s17,s18,s19
 explore=C,D,E,s8,s9,s10,s11
 
 #rules=
