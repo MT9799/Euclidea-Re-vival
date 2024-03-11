@@ -51,8 +51,8 @@ s30=Segment[P,I]
 initial=D,I,s1,s2,s3,s5
 movepoints=A,B,C,E
 
-result=s14,s15,s16:R,O,s25,s26,s27
-result=s17,s18,s19:P,Q,s28,s29,s30
+result=s14,s15,s16:D,I,R,O,s25,s26,s27
+result=s17,s18,s19:D,I,P,Q,s28,s29,s30
 explore=R,O,s25,s26,s27
 
 rules=F.D>F.G

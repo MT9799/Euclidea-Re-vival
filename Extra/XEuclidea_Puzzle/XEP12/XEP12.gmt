@@ -44,7 +44,7 @@ named=D.A
 initial=A,B,C,D,s33,s34,s35,s36
 #movepoints=
 
-result=s14,s15,s8:K,H,I,J,s25,s26,s27,s28,s29
+result=s14,s15,s8:D,K,H,I,J,s25,s26,s27,s28,s29
 explore=K,H,I,J,s25,s26,s27,s28,s29
 
 #rules=

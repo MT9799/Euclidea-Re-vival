@@ -34,8 +34,8 @@ s12=Segment[K,F]
 initial=F,P,s1,s2,c1
 movepoints=A,B,C
 
-result=s5:H,I,s7,s8,s9
-result=s6:J,K,s10,s11,s12
+result=s5:F,P,H,I,s7,s8,s9
+result=s6:F,P,J,K,s10,s11,s12
 explore=H,I,s7,s8,s9
 
 rules=E.F>F.G

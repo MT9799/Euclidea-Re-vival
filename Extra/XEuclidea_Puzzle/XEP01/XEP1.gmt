@@ -47,8 +47,8 @@ s17=Line[M,N]
 initial=A,D,E,s1,s2
 movepoints=B,C
 
-result=s11:I,J,s8,s9,s10
-result=s17:M,N,s14,s15,s16
+result=s11:D,E,I,J,s8,s9,s10
+result=s17:D,E,M,N,s14,s15,s16
 explore=I,J,s8,s9,s10
 
 #rules=

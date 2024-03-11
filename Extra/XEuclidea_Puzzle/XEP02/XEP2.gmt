@@ -41,8 +41,8 @@ s14=Segment[N,D]
 initial=C,D,s1
 movepoints=B,A
 
-result=s5,s6:K,L,s8,s9,s7
-result=s10,s11:O,N,s14,s13,s12
+result=s5,s6:C,D,K,L,s8,s9,s7
+result=s10,s11:C,D,O,N,s14,s13,s12
 explore=K,L,s8,s9,s7
 
 #rules=
