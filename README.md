@@ -4,15 +4,21 @@ Euclidea players：
 
 We're planning to bring the puzzles released by official and some other classic puzzles to Euclidea games, so that you can play these new levels in Euclidea. Just in time we need your help to complete this ambitious project and turn it into reality. Everyone is welcome! 
 
-: Each level folder always contains a description, current optimal solutions and the gmt file code (Solutions to Extra Puzzles are placed in a separate folder). 
+## Usage
 
-Catalog of level packs:
+Each level folder always contains a definition, current optimal solutions and the gmt file code (Solutions to Extra Puzzles are placed in a separate folder). 
+
+## Catalog of level packs
+
 - Euclidea Weekly Puzzles
 - Xmath contests
 - Other questions, including some compass-straightedge construction puzzles that are not included in Euclidea, straightedge-only construction puzzles, etc. 
 
-About the "current optimal solution": Many questions have not attempted to reduce steps, especially the L stars. If you find any better solutions, please feel free to submit Issues
+## About the "current optimal solution"
 
+Many questions have not attempted to reduce steps, especially the L stars. If you find any better solutions, please feel free to submit issues or send pull requests.
+
+----
 
 喜欢玩Euclidea的朋友们：
 
@@ -20,11 +26,15 @@ About the "current optimal solution": Many questions have not attempted to reduc
 
 正好我们需要你的帮助，来共同完成这项宏伟的计划，把梦想亲手照进现实。欢迎大家的到来！
 
-：每一关文件夹下都有题图，目前的最优解和gmt代码（非官方题目的解法放在单独的文件夹里面以便玩家独立思考）。关卡目录：
+## 使用方法
+
+每一关文件夹下都有题图，目前的最优解和gmt代码（非官方题目的解法放在单独的文件夹里面以便玩家独立思考）。关卡目录：
 - EWP
 - Xmath
 - 其他题目，包括一些Euclidea未收录的尺规题、单尺作图题等
 
-关于“目前最优解”：很多题目都没有尝试去节省步数，尤其是L数。如果各位发现有更优解，欢迎提出Issues
+## 关于“目前最优解”
+
+很多题目都没有尝试去节省步数，尤其是L数。如果各位发现有更优解，欢迎提出Issues或提交PR
 
 
