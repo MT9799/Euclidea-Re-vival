@@ -1,0 +1,5 @@
+Given circle O and a point A.
+Find a straight line l perpendicular to the line OA, where line l intersects with circle O at point P, and the angular bisector of two lines AP and l passes through point O.
+
+已知圆O及一点A。
+求作垂直于连线OA的直线l，直线l与圆O交于点P，且两条直线AP和l的角平分线过点O。
