@@ -1,0 +1,16 @@
+#Perpendicular_Midpoint
+A=[-100,100]
+B=[100,100]
+C=[0,-110]
+s1=Line[A,B]
+s2=Perp[C,s1]
+D=Intersect[s1,s2,0]
+E=Midpoint[C,D]
+
+initial=C,s1
+
+movepoints=A,B
+
+result=E
+
+explore=E
