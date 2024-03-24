@@ -4,10 +4,11 @@ B=[260,135]
 c1=Circle[A,B]
 C=Linepoint[c1,2.5]
 D=Linepoint[c1,1.2]
-E=Midpoint[C,D]
+s25=Segment[C,D]
+E=Linepoint[s25,0.6]
 c2=Circle[C,E]
 
-s1=Line[A,E]
+s1=Perp[A,s25]
 F=Intersect[c1,s1,1]
 c3=Circle[F,C]
 G=Intersect[c2,c3,0]
@@ -35,12 +36,12 @@ s5=Line[C,N]
 O=Intersect[c1,s5,-,C]
 c8=Circle[O,D]
 
-s25=Segment[C,D]
+
 
 #named=
 #initial=
 #named=
-initial=A,C,D,c1,c2,s25
+initial=A,C,D,E,c1,c2,s25
 movepoints=B
 
 result=c4:H,c4
