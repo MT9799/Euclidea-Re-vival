@@ -1,4 +1,4 @@
-#8899025245
+#Parallel_Bounce_Line
 A=[-2,-96]
 B=[238,-108]
 C=[50,288]
@@ -25,6 +25,8 @@ M=Intersect[s6,s1,0]
 s7=Perp[L,s1]
 s8=Perp[M,s1]
 
+S1=Segment[A,C]
+
 #s25=Segment[C,D]
 
 #named=
@@ -37,4 +39,4 @@ result=s7
 result=s8
 explore=s7
 
-#rules=
+rules=S1#c1

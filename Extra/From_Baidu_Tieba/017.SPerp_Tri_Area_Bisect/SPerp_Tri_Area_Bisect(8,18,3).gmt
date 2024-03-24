@@ -1,4 +1,4 @@
-#7845942972
+#Triangle_Area_Bisect_Side_Perpendicular
 A=[-275,170]
 B=[285,125]
 C=[172,-288]
@@ -51,6 +51,10 @@ s25=Segment[A,B]
 s26=Segment[B,C]
 s27=Segment[C,A]
 
+s13=PBisect[A,B]
+s14=PBisect[A,C]
+s15=PBisect[B,C]
+
 #named=
 #initial=
 #named=
@@ -62,4 +66,4 @@ result=s8
 result=s12
 explore=s4
 
-#rules=
+rules=s13/s26,s14/s26,s15/s25

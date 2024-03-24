@@ -1,4 +1,4 @@
-#5023107201
+#3_Diameters_In_Triangle
 A=[-240,240]
 B=[289,214]
 C=[95,-282]
@@ -33,4 +33,4 @@ initial=A,B,C,s25,s26,s27
 result=c1:c1,I
 explore=c1,I
 
-#rules=
+rules=A.B.C<90,A.C.B<90,B.A.C<90

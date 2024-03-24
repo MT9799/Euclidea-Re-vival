@@ -1,4 +1,4 @@
-#8138001847
+#InAngle_Collinear_Concyclic
 A=[-240,240]
 B=[289,214]
 C=[95,-282]
@@ -30,4 +30,4 @@ result=s5:G,I,s5
 result=s6:H,J,s6
 explore=G,I,s5
 
-#rules=
+rules=s4#s1

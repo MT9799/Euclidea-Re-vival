@@ -1,8 +1,8 @@
-#Miquel Point - 7007160757
+#Miquel_Point - Similar_Triangles
 A=[-200,200]
 B=[-258,-174]
 C=[170,151]
-D=[256,-80]
+D=[266,-90]
 
 s1=Line[B,C]
 s2=Line[A,D]

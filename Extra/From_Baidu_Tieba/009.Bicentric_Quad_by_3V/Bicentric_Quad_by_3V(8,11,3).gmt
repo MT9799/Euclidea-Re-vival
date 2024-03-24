@@ -1,4 +1,4 @@
-#5560962341
+#Bicentric_Quadrilateral_By_3_Vertices
 #A=[-10,10]
 #B=[200,50]
 
@@ -61,6 +61,9 @@ S10=Segment[C,Q]
 S11=Segment[Q,D]
 S12=Segment[D,E]
 
+R=Intersect[c2,s2,1]
+S13=Segment[D,R]
+
 #initial=A,C,D,E,F,G,H,c1,c2,c3,c4,c5,c6,c7,c8,c9,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12
 #named=A,C,D,E,F,G,H
 initial=C,E,D
@@ -72,4 +75,5 @@ result=M:M,S5,S6,S7,S8
 result=Q:Q,S9,S10,S11,S12
 explore=I,S1,S2,S3,S4
 
-#rules=
+#rules=S2#c2,S2#c8,S9#c5,F/c4,J/c7,N/c10
+rules=S2#c2,S2#c8,S9#c5,F/c4

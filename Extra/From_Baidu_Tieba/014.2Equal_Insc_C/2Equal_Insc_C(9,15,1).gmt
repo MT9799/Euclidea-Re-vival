@@ -1,4 +1,4 @@
-#1970112324
+#Two_Equally_Large_Inscribed_Circles
 A=[-168,-166]
 B=[-275,280]
 C=[325,270]
@@ -11,8 +11,9 @@ s2=ABisect[A,C,B]
 D=Intersect[s2,s1,0]
 s3=Perp[D,ss1]
 E=Intersect[s3,ss1,0]
-s4=Perp[D,ss2]
-G=Intersect[s4,ss2,0]
+ss4=Perp[D,ss2]
+G=Intersect[ss4,ss2,0]
+s4=Line[G,D]
 c1=Circle[A,E]
 F=Intersect[c1,s4,0]
 s5=PBisect[F,G]
@@ -29,6 +30,12 @@ s25=Segment[A,B]
 s26=Segment[B,C]
 s27=Segment[C,A]
 
+#s7=Line[B,C]
+#c4=Circle[B,C]
+#c5=Circle[C,B]
+#K=Intersect[c4,c5,0]
+#s8=Segment[A,K]
+
 #named=
 #initial=
 named=A
@@ -38,4 +45,4 @@ initial=A,B,C,s25,s26,s27
 result=c2,c3:H,I,c2,c3
 explore=H,I,c2,c3
 
-#rules=
+#rules=s7/s8

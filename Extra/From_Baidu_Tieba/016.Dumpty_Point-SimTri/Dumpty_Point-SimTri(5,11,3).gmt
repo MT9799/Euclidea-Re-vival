@@ -1,4 +1,4 @@
-#Dumpty Point - 8442863174
+#Dumpty_Point - Similar_Triangles
 A=[-240,240]
 B=[289,214]
 C=[95,-282]
@@ -39,4 +39,4 @@ result=G
 result=E
 explore=I
 
-#rules=
+rules=A.B.C<90,A.C.B<90,B.A.C<90
