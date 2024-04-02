@@ -1,5 +1,5 @@
 
-#8899727675
+#Vertice_Orthocenter_Incenter_ReTriangle
 A=[130,-260]
 B=[85,25]
 C=[130,-40]
@@ -30,6 +30,8 @@ I=Intersect[s8,s6,0]
 s25=Segment[A,H]
 s26=Segment[H,I]
 s27=Segment[I,A]
+S1=Segment[B,H]
+S2=Segment[B,I]
 
 #named=
 #initial=
@@ -40,4 +42,4 @@ initial=A,B,C
 result=s5,s6,s8:H,I,s25,s26,s27
 explore=H,I,s25,s26,s27
 
-#rules=
+rules=S1/s27,S2/s25

@@ -1,6 +1,6 @@
 
-#2618536218
-A=[-168,-166]
+#Perp_Triangle_on_Side_Equal_Area
+A=[-258,-166]
 B=[-275,280]
 C=[325,270]
 s25=Segment[A,B]
@@ -38,4 +38,4 @@ result=J
 result=K
 explore=K
 
-#rules=
+rules=c1#s25,c1#s26,c1#s27

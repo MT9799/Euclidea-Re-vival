@@ -21,3 +21,5 @@ movepoints=B
 result=s6
 
 explore=s6
+
+rules=A.B<A.C
