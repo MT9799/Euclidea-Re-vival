@@ -6,7 +6,13 @@ We're planning to bring the puzzles released by official and some other classic 
 
 ## Usage
 
+- Repo
+
 Each level folder always contains a definition, current optimal solutions and the gmt file code (Solutions to Extra Puzzles are placed in a separate folder). 
+
+- Gmt files
+
+View the apk file, go to \res\raw, and open a gmt file as text corresponding to an unlocked level in the game, covering the content. After installation, start it and find the modified level to play.
 
 ## Catalog of level packs
 
@@ -28,7 +34,13 @@ Many questions have not attempted to reduce steps, especially the L stars. If yo
 
 ### 使用方法
 
+- 本仓库
+
 每一关文件夹下都有题图，目前的最优解和gmt代码（非官方题目的解法放在单独的文件夹里面以便玩家独立思考）。
+
+- gmt文件
+
+查看apk文件，路径\res\raw，文本方式打开一个游戏内解锁的关卡对应的gmt文件，覆盖内容，安装后打开，找到对应关卡即可游玩。
 
 ### 关卡目录：
 
