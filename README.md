@@ -1,30 +1,4 @@
-# Euclidea-Re-vive
-
-Euclidea players： 
-
-We're planning to bring the puzzles released by official and some other classic puzzles to Euclidea games, so that you can play these new levels in Euclidea. Just in time we need your help to complete this ambitious project and turn it into reality. Everyone is welcome! 
-
-## Usage
-
-- Repo
-
-Each level folder always contains a definition, current optimal solutions and the gmt file code (Solutions to Extra Puzzles are placed in a separate folder). 
-
-- Gmt files
-
-View the apk file, go to \res\raw, and open a gmt file as text corresponding to an unlocked level in the game, covering the content. After installation, start it and find the modified level to play.
-
-## Catalog of level packs
-
-- Euclidea Weekly Puzzles
-- Xmath contests
-- Other questions, including some compass-straightedge construction puzzles that are not included in Euclidea, straightedge-only construction puzzles, etc. 
-
-## About the "current optimal solution"
-
-Many questions have not attempted to reduce steps, especially the L stars. If you find any better solutions, please feel free to submit issues or send pull requests.
-
-----
+# Euclidea-Re-vival
 
 喜欢玩Euclidea的朋友们：
 
@@ -48,8 +22,42 @@ Many questions have not attempted to reduce steps, especially the L stars. If yo
 - Xmath
 - 其他题目，包括一些Euclidea未收录的尺规题、单尺作图题等
 
-### 关于“目前最优解”
+### 关于
 
-很多题目都没有尝试去节省步数，尤其是L数。如果各位发现有更优解，欢迎提出Issues或提交PR
+很多题目都没有尝试去节省步数，尤其是L数。如果各位发现有更优解，欢迎交流。
 
+如果各位还有好的想法或者收集的好题，也欢迎分享，我们会酌情收录。
 
+交流的话，可以直接入群交流，也可以提出Issues或提交PR。
+
+本计划QQ群：254287970
+
+几何作图交流群：482999198
+
+---
+
+Euclidea players：
+
+We're planning to bring the puzzles released by official and some other classic puzzles to Euclidea games, so that you can play these new levels in Euclidea. Just in time we need your help to complete this ambitious project and turn it into reality. Everyone is welcome!
+
+## Usage
+
+- Repo
+
+Each level folder always contains a definition, current optimal solutions and the gmt file code (Solutions to Extra Puzzles are placed in a separate folder).
+
+- Gmt files
+
+View the apk file, go to \res\raw, and open a gmt file as text corresponding to an unlocked level in the game, covering the content. After installation, start it and find the modified level to play.
+
+## Catalog of level packs
+
+- Euclidea Weekly Puzzles
+- Xmath contests
+- Other questions, including some compass-straightedge construction puzzles that are not included in Euclidea, straightedge-only construction puzzles, etc.
+
+## About
+
+Many questions have not attempted to reduce steps, especially the L stars. If you find any better solutions, please feel free to submit issues or send pull requests.
+
+If you have any good ideas or collections, feel free to share them, and we may include them as appropriate.

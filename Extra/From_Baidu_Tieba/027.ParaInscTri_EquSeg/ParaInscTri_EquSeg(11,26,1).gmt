@@ -57,4 +57,4 @@ initial=A,B,C,s25,s26,s27
 result=L:L,M,N,O,P,Q,R,s28,s29,s30
 explore=L
 
-#rules=
+rules=L#s28,L#s29,L#s30
