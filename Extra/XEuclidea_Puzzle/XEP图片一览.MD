@@ -2,13 +2,12 @@
 
 ### 1-15
 
-![1711382250239](image/XEP图片一览/1711382250239.png)![1711382254526](image/XEP图片一览/1711382254526.png)![1711382258620](image/XEP图片一览/1711382258620.png)![1711382263738](image/XEP图片一览/1711382263738.png)![1711382268262](image/XEP图片一览/1711382268262.png)![1711382286233](image/XEP图片一览/1711382286233.png)![1711382291836](image/XEP图片一览/1711382291836.png)![1711382295308](image/XEP图片一览/1711382295308.png)![1711382298559](image/XEP图片一览/1711382298559.png)![1711382304038](image/XEP图片一览/1711382304038.png)![1711382307511](image/XEP图片一览/1711382307511.png)![1711382311052](image/XEP图片一览/1711382311052.png)![1711382316949](image/XEP图片一览/1711382316949.png)![1711382319965](image/XEP图片一览/1711382319965.png)![1711382323275](image/XEP图片一览/1711382323275.png)三边比a,b,(a+b)/2
+![Xep1](image/Xep1.png)![Xep2](image/Xep2.png)![Xep3](image/Xep3.png)![Xep4](image/Xep4.png)![Xep5](image/Xep5.png)![Xep6](image/Xep6.png)![Xep7](image/Xep7.png)![Xep8](image/Xep8.png)![Xep9](image/Xep9.png)![Xep10](image/Xep10.png)![Xep11](image/Xep11.png)![Xep12](image/Xep12.png)![Xep13](image/Xep13.png)![Xep14](image/Xep14.png)![Xep15](image/Xep15.png)
 
 ### 16-30
 
-![1711382371083](image/XEP图片一览/1711382371083.png)![1711382375009](image/XEP图片一览/1711382375009.png)![1711382378408](image/XEP图片一览/1711382378408.png)![1711382381508](image/XEP图片一览/1711382381508.png)![1711382384937](image/XEP图片一览/1711382384937.png)![1711382388287](image/XEP图片一览/1711382388287.png)![1711382391636](image/XEP图片一览/1711382391636.png)![1711382394859](image/XEP图片一览/1711382394859.png)![1711382398043](image/XEP图片一览/1711382398043.png)![1711382402049](image/XEP图片一览/1711382402049.png)![1711382405722](image/XEP图片一览/1711382405722.png)
+![Xep16](image/Xep16.png)![Xep17](image/Xep17.png)![Xep18](image/Xep18.png)![Xep19](image/Xep19.png)![Xep20](image/Xep20.png)![Xep21](image/Xep21.png)![Xep22](image/Xep22.png)![Xep23](image/Xep23.png)![Xep24](image/Xep24.png)![Xep25](image/Xep25.png)![Xep26](image/Xep26.png)![Xep27](image/Xep27.png)![Xep28](image/Xep28.png)![Xep29](image/Xep29.png)![Xep30](image/Xep30.png)
 
-## 计划中 Experiment
 
 ### **撅沙，吴姐！**
 
@@ -21,3 +20,5 @@ Impossible straightedge and compass constructions.
 Grant
 
 ![1711382541294](image/XEP图片一览/1711382541294.png)![1711382547164](image/XEP图片一览/1711382547164.png)![1711382550835](image/XEP图片一览/1711382550835.png)
+
+## 草稿箱 Experiment
