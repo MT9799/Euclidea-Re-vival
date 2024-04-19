@@ -1,27 +1,60 @@
-## XEuclidea Puzzle (XEP)
+# XEuclidea Puzzle (XEP)
 
 ![logo](logo.jpg)
 
 ### 1-15
 
-![Xep1](image/XEP1-15/Xep1.png)![Xep2](image/XEP1-15/Xep2.png)![Xep3](image/XEP1-15/Xep3.png)![Xep4](image/XEP1-15/Xep4.png)![Xep5](image/XEP1-15/Xep5.png)![Xep6](image/XEP1-15/Xep6.png)![Xep7](image/XEP1-15/Xep7.png)![Xep8](image/XEP1-15/Xep8.png)![Xep9](image/XEP1-15/Xep9.png)![Xep10](image/XEP1-15/Xep10.png)![Xep11](image/XEP1-15/Xep11.png)![Xep12](image/XEP1-15/Xep12.png)![Xep13](image/XEP1-15/Xep13.png)![Xep14](image/XEP1-15/Xep14.png)![Xep15](image/XEP1-15/Xep15.png)
+<img src="image/XEP1-15/Xep1.png" width = 30% align=center /><img src="image/XEP1-15/Xep2.png" width = 30% align=center /><img src="image/XEP1-15/Xep3.png" width = 30% align=center /><img src="image/XEP1-15/Xep4.png" width = 30% align=center /><img src="image/XEP1-15/Xep5.png" width = 30% align=center /><img src="image/XEP1-15/Xep6.png" width = 30% align=center /><img src="image/XEP1-15/Xep7.png" width = 30% align=center /><img src="image/XEP1-15/Xep8.png" width = 30% align=center /><img src="image/XEP1-15/Xep9.png" width = 30% align=center /><img src="image/XEP1-15/Xep10.png" width = 30% align=center /><img src="image/XEP1-15/Xep11.png" width = 30% align=center /><img src="image/XEP1-15/Xep12.png" width = 30% align=center /><img src="image/XEP1-15/Xep13.png" width = 30% align=center /><img src="image/XEP1-15/Xep14.png" width = 30% align=center /><img src="image/XEP1-15/Xep15.png" width = 30% align=center />
 
 ### 16-30
 
-![Xep16](image/XEP16-30/Xep16.png)![Xep17](image/XEP16-30/Xep17.png)![Xep18](image/XEP16-30/Xep18.png)![Xep19](image/XEP16-30/Xep19.png)![Xep20](image/XEP16-30/Xep20.png)![Xep21](image/XEP16-30/Xep21.png)![Xep22](image/XEP16-30/Xep22.png)![Xep23](image/XEP16-30/Xep23.png)![Xep24](image/XEP16-30/Xep24.png)![Xep25](image/XEP16-30/Xep25.png)![Xep26](image/XEP16-30/Xep26.png)![Xep27](image/XEP16-30/Xep27.png)![Xep28](image/XEP16-30/Xep28.png)![Xep29](image/XEP16-30/Xep29.png)![Xep30](image/XEP16-30/Xep30.png)
+<img src="image/XEP16-30/Xep16.png" width = 30% align=center /><img src="image/XEP16-30/Xep17.png" width = 30% align=center /><img src="image/XEP16-30/Xep18.png" width = 30% align=center /><img src="image/XEP16-30/Xep19.png" width = 30% align=center /><img src="image/XEP16-30/Xep20.png" width = 30% align=center /><img src="image/XEP16-30/Xep21.png" width = 30% align=center /><img src="image/XEP16-30/Xep22.png" width = 30% align=center /><img src="image/XEP16-30/Xep23.png" width = 30% align=center /><img src="image/XEP16-30/Xep24.png" width = 30% align=center /><img src="image/XEP16-30/Xep25.png" width = 30% align=center /><img src="image/XEP16-30/Xep26.png" width = 30% align=center /><img src="image/XEP16-30/Xep27.png" width = 30% align=center /><img src="image/XEP16-30/Xep28.png" width = 30% align=center /><img src="image/XEP16-30/Xep29.png" width = 30% align=center /><img src="image/XEP16-30/Xep30.png" width = 30% align=center />
+
+## 套题
+
+Set Similar Puzzles
+
+### Triangle Segments
+<img src="Set Similar Puzzle\01.Triangle Segments\1713315912147.png" align=center />
+<img src="Set Similar Puzzle\01.Triangle Segments\1713319320278.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\1713319152321.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\1713318791461.png" width = "200" height = "200" align=center />
 
 
-### **撅沙，吴姐！**
+### Hiho
+<img src="Set Similar Puzzle\02.Hiho\1713352490983.png" align=center />
+
+
+### Round
+<img src="Set Similar Puzzle\03.Round\1713404879234.png" align=center />
+<img src="Set Similar Puzzle\03.Round\1713406909907.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\1713406916753.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\1713406921197.png" width = "200" height = "200"  align=center />
+
+
+### Midpoint Chord
+
+
+### 3 Equal Segments
+
+
+### Ratio Sets
+
+
+### Inversion Fixed Point
+
+
+### Light and Dark
+<img src="Set Similar Puzzle\08.Light and Dark\1713486618570.png" align=center />
+
+
+## *撅沙，吴姐！*
 
 Impossible straightedge and compass constructions.
 
-![Isacc1](image/ISaCC/Isacc1.png)![Isacc2](image/ISaCC/Isacc2.png)![Isacc3](image/ISaCC/Isacc3.png)
+<img src="image/ISaCC/Isacc1.png" width = 30% align=center /><img src="image/ISaCC/Isacc2.png" width = 30% align=center /><img src="image/ISaCC/Isacc3.png" width = 30% align=center />
 
-### *赠予*
+## *赠予*
 
 Grant
 
-![Grant1](image/Grant/Grant1.png)![Grant2](image/Grant/Grant2.png)![Grant3](image/Grant/Grant3.png)![Grant4](image/Grant/Grant4.png)![Grant5](image/Grant/Grant5.png)
+<img src="image/Grant/Grant1.png" width = 30% align=center /><img src="image/Grant/Grant2.png" width = 30% align=center /><img src="image/Grant/Grant3.png" width = 30% align=center /><img src="image/Grant/Grant4.png" width = 30% align=center /><img src="image/Grant/Grant5.png" width = 30% align=center />
 
 ## 草稿箱 
 
@@ -29,8 +62,12 @@ Experiment
 
 ### 1-15
 
-![Draft1](image/Draft1-15/Draft1.jpg)![Draft2](image/Draft1-15/Draft2.jpg)![Draft3](image/Draft1-15/Draft3.jpg)![Draft4](image/Draft1-15/Draft4.jpg)![Draft5](image/Draft1-15/Draft5.jpg)![Draft6](image/Draft1-15/Draft6.jpg)![Draft7](image/Draft1-15/Draft7.jpg)![Draft8](image/Draft1-15/Draft8.jpg)![Draft9](image/Draft1-15/Draft9.jpg)![Draft10](image/Draft1-15/Draft10.jpg)![Draft11](image/Draft1-15/Draft11.jpg)![Draft12](image/Draft1-15/Draft12.jpg)![Draft13](image/Draft1-15/Draft13.jpg)![Draft14](image/Draft1-15/Draft14.jpg)![Draft15](image/Draft1-15/Draft15.jpg)
+<img src="image/Draft1-15/Draft1.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft2.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft3.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft4.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft5.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft6.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft7.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft8.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft9.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft10.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft11.png" width = 30% align=center /><img src="image/Draft1-15/Draft12.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft13.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft14.jpg" width = 30% align=center /><img src="image/Draft1-15/Draft15.jpg" width = 30% align=center />
 
 ### 16-30
 
-![Draft16](image/Draft16-30/Draft16.jpg)![Draft17](image/Draft16-30/Draft17.jpg)![Draft18](image/Draft16-30/Draft18.jpg)![Draft19](image/Draft16-30/Draft19.jpg)![Draft20](image/Draft16-30/Draft20.jpg)![Draft21](image/Draft16-30/Draft21.jpg)
+<img src="image/Draft16-30/Draft16.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft17.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft18.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft19.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft20.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft21.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft22.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft23.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft24.png" width = 30% align=center /><img src="image/Draft16-30/Draft25.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft26.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft27.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft28.png" width = 30% align=center /><img src="image/Draft16-30/Draft29.jpg" width = 30% align=center /><img src="image/Draft16-30/Draft30.jpg" width = 30% align=center />
+
+### 31-45
+
+<img src="image/Draft31-45/Draft31.png" width = 30% align=center />
