@@ -1,0 +1,12 @@
+#EWP232
+A=[5,12]
+B=[158,-47]
+c1=Circle[A,B]
+S1=Segment[A,B]
+s2=Perp[B,S1]
+
+initial=c1,B,A
+
+result=s2:B,s2
+
+explore=s2
