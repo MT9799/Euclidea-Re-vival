@@ -1,3 +1,0 @@
-Make a point P within triangle ABC so that there are two triangles in triangles ABP, BCP, and CAP that are similar.
-
-在三角形ABC内作一点P，使得三角形ABP,BCP,CAP中存在两个三角形是相似的。

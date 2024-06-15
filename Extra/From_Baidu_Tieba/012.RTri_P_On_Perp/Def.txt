@@ -1,5 +1,0 @@
-Given the triangle ABC, the perpendicular CD, and the line segment CD, there is a point E.
-Find a straight line passing through point E, with points P and Q on both sides of the intersecting triangle, so that the angle PDQ is 90 degrees.
-
-已知三角形ABC，垂线CD，线段CD上有一点E。
-求作一条直线过点E，交三角形两边分别为点P和Q，使得角度PDQ为90度。

@@ -1,5 +1,0 @@
-Given that there is a chord AB within circle O, and the circle AC.
-Find a circle PB with its center on circle O, so that two circles AC and PB are tangent.
-
-已知圆O内有弦AB，圆AC。
-求作一个圆心在圆O上的圆PB，使得两个圆AC和PB相切。
