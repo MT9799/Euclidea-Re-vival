@@ -1,0 +1,17 @@
+#EWP235
+A=[-126,16]
+B=[56,16]
+s1=Ray[A,B]
+c1=Circle[B,A]
+C=Intersect[c1,s1,1]
+c2=Circle[C,B]
+D=Intersect[c1,c2,0]
+c3=Circle[A,D]
+E=Intersect[c3,s1,0]
+S1=Segment[A,E]
+
+initial=A,B,s1
+
+result=E:A,E,S1
+
+explore=E,S1
