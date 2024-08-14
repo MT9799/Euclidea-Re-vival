@@ -1,0 +1,11 @@
+#EWP242
+A=[-200,0]
+B=[200,0]
+C=Midpoint[A,B]
+S1=Segment[A,B]
+
+initial=A,B,S1
+
+result=C
+
+explore=C
