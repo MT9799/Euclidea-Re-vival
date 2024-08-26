@@ -1,0 +1,12 @@
+#EWP243
+A=[0,0]
+B=[200,0]
+l1=Line[A,B]
+c1=Circle[A,B]
+C=Intersect[c1,l1,0,B]
+
+named=A,B
+
+result=C
+
+explore=C
