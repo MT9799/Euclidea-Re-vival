@@ -1,0 +1,41 @@
+#The following generated content is for reference only.
+#The params of the linepoints are random. Please carefully adjust them after converting.
+#The game setting 'rules' is inconvertible. Please complete them if need.
+A=[-39.4883466397562,-31.590677311804974]
+B=[181.6463945428785,-168.48361232962654]
+c1=Circle[A,B]
+C=Linepoint[c1,0.7706933410195971]
+D=Linepoint[c1,2.437098589347575]
+E=Linepoint[c1,-2.822845093169149]
+F=Linepoint[c1,-0.3539974368318963]
+s1=Line[E,F]
+G=Linepoint[s1,0.21]  #Detected unsupported constructions, the parameter is random.
+H=Linepoint[s1,0.79]  #Detected unsupported constructions, the parameter is random.
+s2=PolarLine[H,c1]
+s3=PolarLine[G,c1]
+I=Intersect[s3,s2,0]
+s4=Line[C,D]
+J=Intersect[s3,s4,0]
+K=Intersect[s2,s4,0]
+s5=Line[K,G]
+L=Intersect[s3,s5,0]
+s6=Line[H,J]
+M=Intersect[s2,s6,0]
+s7=Line[M,L]
+N=Intersect[c1,s7,0]
+O=Intersect[c1,s7,1]
+
+initial=c1,s1,E,F,G,H,C,D
+
+#named=
+
+#hidden=
+
+movepoints=A,B
+
+result=O
+result=N
+
+explore=O
+
+#rules=
