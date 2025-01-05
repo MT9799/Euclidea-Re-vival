@@ -1,0 +1,26 @@
+#XMath Contest 2024-2
+
+A=[-185.78317365418218,141.69850259204168]
+B=[-108.05084638845442,-241.60228358034598]
+C=[46.073595603936845,211.38955462338487]
+c1=Circle3[C,A,B]
+pt1=CenterPoint[c1]
+s1=Tangent[A,c1,0]
+s2=Line[C,B]
+D=Intersect[s2,s1,0]
+c2=Circle[D,A]
+E=Intersect[c1,c2,-,A]
+
+initial=A,B,C,c1
+
+named=A,B,C
+
+#hidden=pt1
+
+#movepoints=
+
+result=E
+
+explore=E
+
+#rules=
