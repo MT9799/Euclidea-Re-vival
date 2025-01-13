@@ -1,0 +1,51 @@
+#Forum Puzzle 49
+
+A=[119.32793866938044,-125.09541567098745]
+B=[-281.50700946399314,157.65122824052474]
+C=[200,200.0]
+s1=Line[A,B]
+s2=Line[B,C]
+s3=Line[C,A]
+D=Linepoint[s2,1.2]
+#Detected unsupported constructions, the parameter is random.
+E=Linepoint[s2,0.6]
+#Detected unsupported constructions, the parameter is random.
+F=Linepoint[s2,0.2]
+#Detected unsupported constructions, the parameter is random.
+s4=PBisect[F,D]
+c1=Circle[E,F]
+G=Intersect[c1,s4,1]
+H=Intersect[c1,s4,0]
+c2=Circle[F,H]
+I=Intersect[c2,s1,0]
+J=Intersect[c2,s1,1]
+c3=Circle[I,F]
+c4=Circle[J,F]
+K=Intersect[c3,c4,-,F]
+s5=Line[K,F]
+L=Intersect[c2,c3,0]
+M=Intersect[c2,c3,1]
+s6=Line[L,M]
+N=Intersect[s5,s6,0]
+c5=Circle[N,F]
+O=Intersect[c5,s3,0]
+P=Intersect[c5,s3,1]
+s7=Line[F,O]
+Q=Intersect[s7,s1,0]
+s8=Line[P,F]
+R=Intersect[s8,s1,0]
+
+initial=A,B,C,D,E,F,s1,s2,s3
+
+named=F
+
+#hidden=
+
+#movepoints=
+
+result=s7:s7,O,Q
+result=s8:s8,P,R
+
+explore=s7,O,Q
+
+#rules=
