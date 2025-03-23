@@ -23,32 +23,52 @@
 Set Similar Puzzles
 
 ### Triangle Segments
-<img src="Set Similar Puzzle\01.Triangle Segments\1713315912147.png" width = "600" height = "600"  align=center /><br />
-<img src="Set Similar Puzzle\01.Triangle Segments\1713319320278.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\1713319152321.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\1713318791461.png" width = "200" height = "200" align=center />
+有关三角形内交于一点的3条线段
+Regarding the three line segments that intersect within a triangle at a point
+<img src="Set Similar Puzzle\01.Triangle Segments\TS_logo.png" width = "600" height = "600"  align=center /><br />
+<img src="Set Similar Puzzle\01.Triangle Segments\TS1.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\TS2.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\TS3.png" width = "200" height = "200" align=center />
 
 
 ### Hiho
-<img src="Set Similar Puzzle\02.Hiho\1713352490983.png" width = "600" height = "600"  align=center /><br />
+关于平行线的题目
+Regarding parallel lines of puzzles
+<img src="Set Similar Puzzle\02.Hiho\HH_logo.png" width = "600" height = "600"  align=center /><br />
+<img src="Set Similar Puzzle\02.Hiho\HH1.jpg" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH2.jpg" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH3.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH4.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH5.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH6.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH7.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH8.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH9.jpg" width = "200" height = "200" align=center />
 
 
 ### Round
-<img src="Set Similar Puzzle\03.Round\1713404879234.png" width = "600" height = "600"  align=center /><br />
-<img src="Set Similar Puzzle\03.Round\1713406909907.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\1713406916753.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\1713406921197.png" width = "200" height = "200"  align=center />
+关于直径的题目
+Regarding diameter of puzzles
+<img src="Set Similar Puzzle\03.Round\R_logo.png" width = "600" height = "600"  align=center /><br />
+<img src="Set Similar Puzzle\03.Round\R1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\R2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\R3.png" width = "200" height = "200"  align=center />
 
 
 ### Midpoint Chord
+关于弦的中点
+Regarding the midpoint of the chord
+<img src="Set Similar Puzzle\04.Midpoint Chord\MC1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\04.Midpoint Chord\MC2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\04.Midpoint Chord\MC3.jpg" width = "200" height = "200"  align=center />
 
 
 ### 3 Equal Segments
+关于三条等长线段的题目
+Regarding three equally long line segments of puzzles
+<img src="Set Similar Puzzle\05.3 Equal Segments\ES1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES3.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES4.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES5.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES6.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES7.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES8.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES9.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES10.jpg" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES11.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES12.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES13.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES14.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES15.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES16.png" width = "200" height = "200"  align=center />
 
 
 ### Light and Dark
-<img src="Set Similar Puzzle\06.Light and Dark\1713486618570.png" width = "600" height = "600"  align=center /><br />
+光与影的圆艺
+The Art of Light and Shadow
+<img src="Set Similar Puzzle\06.Light and Dark\LD_logo.png" width = "600" height = "600"  align=center /><br />
+<img src="Set Similar Puzzle\06.Light and Dark\LD1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD3.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD4.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD5.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD6.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD7.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD8.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD9.png" width = "200" height = "200"  align=center />
 
 
 ### Summer Contest
 <img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEuclidea Contest Promotional Pictorial.png" width = "600" height = "600"  align=center /><br />
 <img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEWPC1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEWPC2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEWPC3.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEWPC4.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEWPC5.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEWPC6.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\07.XEuclidea Contest (fanmade)\XEWPC7.png" width = "200" height = "200"  align=center />
+
+
+### Spring Contest
+<img src="Set Similar Puzzle\08.Spring Contest (fanmade)\SC1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\08.Spring Contest (fanmade)\SC2.jpg" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\08.Spring Contest (fanmade)\SC3.jpg" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\08.Spring Contest (fanmade)\SC4.jpg" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\08.Spring Contest (fanmade)\SC5.jpg" width = "200" height = "200"  align=center />
 
 
 ## *撅沙，吴姐！*
@@ -61,7 +81,7 @@ Impossible straightedge and compass constructions.
 
 Grant
 
-<img src="image/Grant/Grant1.png" width = 30% align=center /><img src="image/Grant/Grant2.png" width = 30% align=center /><img src="image/Grant/Grant3.png" width = 30% align=center /><img src="image/Grant/Grant4.png" width = 30% align=center /><img src="image/Grant/Grant5.png" width = 30% align=center />
+<img src="image/Grant/Grant1.png" width = 30% align=center /><img src="image/Grant/Grant2.png" width = 30% align=center /><img src="image/Grant/Grant3.png" width = 30% align=center /><img src="image/Grant/Grant4.png" width = 30% align=center /><img src="image/Grant/Grant5.png" width = 30% align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD4.png" width = 30%  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD5.png" width = 30%  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD6.png" width = 30%  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD7.png" width = 30%  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD8.png" width = 30%  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD9.png" width = 30%  align=center />
 
 ## 草稿箱 
 
