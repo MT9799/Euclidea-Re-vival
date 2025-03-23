@@ -23,41 +23,41 @@
 Set Similar Puzzles
 
 ### Triangle Segments
-有关三角形内交于一点的3条线段
-Regarding the three line segments that intersect within a triangle at a point
+有关三角形内交于一点的3条等长线段<br />
+Regarding the three equally long line segments that intersect within a triangle at a point<br />
 <img src="Set Similar Puzzle\01.Triangle Segments\TS_logo.png" width = "600" height = "600"  align=center /><br />
 <img src="Set Similar Puzzle\01.Triangle Segments\TS1.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\TS2.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\01.Triangle Segments\TS3.png" width = "200" height = "200" align=center />
 
 
 ### Hiho
-关于平行线的题目
-Regarding parallel lines of puzzles
+关于平行线的题目<br />
+Regarding parallel lines of puzzles<br />
 <img src="Set Similar Puzzle\02.Hiho\HH_logo.png" width = "600" height = "600"  align=center /><br />
 <img src="Set Similar Puzzle\02.Hiho\HH1.jpg" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH2.jpg" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH3.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH4.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH5.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH6.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH7.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH8.png" width = "200" height = "200" align=center /><img src="Set Similar Puzzle\02.Hiho\HH9.jpg" width = "200" height = "200" align=center />
 
 
 ### Round
-关于直径的题目
-Regarding diameter of puzzles
+关于直径的题目<br />
+Regarding diameter of puzzles<br />
 <img src="Set Similar Puzzle\03.Round\R_logo.png" width = "600" height = "600"  align=center /><br />
 <img src="Set Similar Puzzle\03.Round\R1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\R2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\03.Round\R3.png" width = "200" height = "200"  align=center />
 
 
 ### Midpoint Chord
-关于弦的中点
-Regarding the midpoint of the chord
+关于弦的中点<br />
+Regarding the midpoint of the chord<br />
 <img src="Set Similar Puzzle\04.Midpoint Chord\MC1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\04.Midpoint Chord\MC2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\04.Midpoint Chord\MC3.jpg" width = "200" height = "200"  align=center />
 
 
 ### 3 Equal Segments
-关于三条等长线段的题目
-Regarding three equally long line segments of puzzles
+关于三条等长线段的题目<br />
+Regarding three equally long line segments of puzzles<br />
 <img src="Set Similar Puzzle\05.3 Equal Segments\ES1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES3.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES4.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES5.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES6.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES7.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES8.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES9.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES10.jpg" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES11.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES12.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES13.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES14.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES15.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\05.3 Equal Segments\ES16.png" width = "200" height = "200"  align=center />
 
 
 ### Light and Dark
-光与影的圆艺
-The Art of Light and Shadow
+光与影的圆艺<br />
+The Art of Light and Shadow<br />
 <img src="Set Similar Puzzle\06.Light and Dark\LD_logo.png" width = "600" height = "600"  align=center /><br />
 <img src="Set Similar Puzzle\06.Light and Dark\LD1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD3.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD4.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD5.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD6.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD7.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD8.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD9.png" width = "200" height = "200"  align=center />
 
