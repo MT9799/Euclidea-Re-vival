@@ -2,10 +2,10 @@
 A=[-252.30043388145972,208.3323303371186]
 B=[215.9241352946189,189.49570973808065]
 C=[138.28209435079376,-154.07773370766026]
-s1=Line[A,B]
-s2=Line[A,C]
+s1=Ray[A,B]
+s2=Ray[A,C]
 D=Linepoint[s2,0.69]
-E=Linepoint[s2,0.31]
+E=Linepoint[s2,1]
 c1=Circle[D,E]
 c2=Circle[E,D]
 F=Intersect[c1,c2,1]
@@ -19,16 +19,16 @@ J=Intersect[c3,s4,1]
 s5=Line[I,J]
 K=Intersect[s2,s5,0]
 
-#initial=
+initial=s1,s2,A,D
 
 #named=
 
 #hidden=
 
-#movepoints=
+movepoints=B,C
 
-#result=
+result=I,K
 
-#explore=
+explore=I,K
 
-#rules=
+rules=B.A.C<120
