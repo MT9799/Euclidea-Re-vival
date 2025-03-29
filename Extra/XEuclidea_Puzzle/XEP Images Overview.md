@@ -58,7 +58,8 @@ Regarding three equally long line segments of puzzles<br />
 ### Light and Dark
 光与影的圆艺<br />
 The Art of Light and Shadow<br />
-<img src="Set Similar Puzzle\06.Light and Dark\LD_logo.png" width = "600" height = "600"  align=center /><br />
+<img src="Set Similar Puzzle\06.Light and Dark\LD_logo.png" width = "600" height = "600"  align=center />
+<img src="Set Similar Puzzle\06.Light and Dark\LD_logo2.png" width = "600" height = "600"  align=center /><br />
 <img src="Set Similar Puzzle\06.Light and Dark\LD1.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD2.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD3.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD4.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD5.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD6.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD7.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD8.png" width = "200" height = "200"  align=center /><img src="Set Similar Puzzle\06.Light and Dark\LD9.png" width = "200" height = "200"  align=center />
 
 
