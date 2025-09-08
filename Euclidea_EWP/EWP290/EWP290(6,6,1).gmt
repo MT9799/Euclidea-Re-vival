@@ -1,0 +1,13 @@
+#EWP290
+
+A=[-200.000000,0.000000]
+B=[0.000000,0.000000]
+s1=Ray[A,B]
+C=Linepoint[s1,2.025]
+S1=Segment[A,C]
+
+initial=A,B,s1
+
+result=C:A,C,S1
+
+explore=C
